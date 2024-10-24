@@ -8,6 +8,10 @@ Gaussian Process forecasting is used to model phase fluctuations in oscillators 
 
 See the [arXiv preprint](https://arxiv.org/html/2410.14205v1).
 
+## Supplementary Code
+
+TBA
+
 ## Live Demo 
 
 See https://maciejskorski.github.io/noisy-oscillator-demo/
